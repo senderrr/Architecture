@@ -1,4 +1,4 @@
-# Architecture-github-ReadMe and Manifest file
+# Architecture-github-readMe and manifest file
 
 ## Data Files
 ### ArchitectureRawdata.csv

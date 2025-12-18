@@ -1,4 +1,4 @@
-# Architecture-github
+# Architecture-github-ReadMe and Manifest file
 
 ## Data Files
 ### ArchitectureRawdata.csv
@@ -12,7 +12,7 @@ cleaned data in OpenRefine that only has the first subject headings for each rec
 ### ArchitectureNotebookArticlePlots.ipynb
 Current jupyter notebook for transforming data and creating visualizations
 
-## Archivve
+## Archive
 ### ArchitectureNotebook2023.ipynb
 Old notebook before we used OpenRefine to seperate subject headings from a single column
 ### ArchitectureNotebookPlots.ipynb

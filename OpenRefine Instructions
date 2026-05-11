@@ -1,10 +1,12 @@
-Single Subject Heading Instructions:
+# OpenRefine Instructions
+
+## Single Subject Heading Instructions:
 Make a new OpenRefine project and import dataset
 New column name: SH 1
 Expression: value.split(‘;’)[0]
 Continue to Key Collision Clusters:
 
-First Three Subject Headings Instructions (This is the one we used to curate our dataset):
+## First Three Subject Headings Instructions (This is the one we used to curate our dataset):
 Make a new OpenRefine project and import dataset
 Subjects → edit column → add column based on this column
 New column name: SH 1
@@ -22,7 +24,7 @@ Use ; as separator
 Subjects → facet → customized facets → facet by blank (null or empty string) → click facet / filter (at the top left) → select true →  all → edit rows → remove matching rows → unselect filter → all → edit columns – fill down 
 Continue to Key Collision Clusters:
 
-Key Collision Clusters Instructions:
+## Key Collision Clusters Instructions:
 Subjects → edit cells → Cluster & Edit
 Method: Key collision 
 Keying function: Fingerprint 
